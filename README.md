@@ -52,15 +52,9 @@ No commercial use, redistribution, or unethical usage is permitted.
 ## Folder Structure
 
 ```
-scripts/
-â”œâ”€â”€ install.sh                 # macOS/Linux setup script
-â”œâ”€â”€ install-current-user.vbs  # Windows script for current user
-â””â”€â”€ install-all-users.vbs     # Windows script for all users
+scripts/ ├── install.sh                 # macOS/Linux setup script ├── install-current-user.vbs  # Windows script for current user └── install-all-users.vbs     # Windows script for all users
 
-configs_windows_2017-2021.3.3/
-configs_mac_2022.1-2022.3.3/
-micool_config/                # Sample VM and plugin configurations
-README_config_notes.txt       # Notes for educational setup usage
+configs_windows_2017-2021.3.3/ configs_mac_2022.1-2022.3.3/ micool_config/                # Sample VM and plugin configurations README_config_notes.txt       # Notes for educational setup usage
 ```
 
 ---
