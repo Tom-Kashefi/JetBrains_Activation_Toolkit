@@ -1,0 +1,2 @@
+1.Please strictly follow the tutorial instructions.
+2. Do not execute the script using sudo sh or similar commands (consequence: the software will fail to open).

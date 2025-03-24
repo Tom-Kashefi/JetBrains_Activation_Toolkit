@@ -1,0 +1,7 @@
+Activation Troubleshooting Notes  
+*By Tom Kashefi*
+
+1. Strictly follow the tutorial instructions.  
+2. Do not attempt clever workarounds or execute with `sudo`.  
+
+If you successfully execute the steps and open the software but it still shows a failed state, it indicates that your macOS environment is not a standard setup, preventing activation. In this case, please use the backup tutorial or record a video of the tutorial steps—our technical team will assist you in resolving the issue. If we cannot succeed, we offer a full refund.
